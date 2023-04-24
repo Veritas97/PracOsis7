@@ -53,31 +53,31 @@ free –m
 
 Задание 1
 
-![1](FOTO\1.png)
+![1](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/1.png)
 
-![2](FOTO\2.png)
+![2](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/2.png)
 
-![3](FOTO\3.png)
+![3](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/3.png)
 
-![4](FOTO\4.png)
+![4](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/4.png)
 
-![5](FOTO\5.png)
+![5](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/5.png)
 
-![6](FOTO\6.png)
+![6](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/6.png)
 
-![7](FOTO\7.png)
+![7](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/7.png)
 
 Данная команда не работает с VMware workstation
 
 или ей не нравится Кали линукс
 
-![8](FOTO\8.png)
+![8](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/8.png)
 
-![9](FOTO\9.png)
+![9](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/9.png)
 ***
 Задание 2
 
-![10](FOTO\10.png)
+![10](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/10.png)
 
 si, so - swap input, swap output когда система не может удержать в памяти необходимый кэш и грязные страницы
 ***
@@ -85,12 +85,12 @@ si, so - swap input, swap output когда система не может уд�
 
 Система до создания
 
-![11](FOTO\11.png)
+![11](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/11.png)
 
 Промежуточный этап
 
-![12](FOTO\12.png)
+![12](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/12.png)
 
 После
 
-![13](FOTO\13.png)
+![13](https://github.com/Veritas97/PracOsis7/blob/main/FOTO/13.png)
